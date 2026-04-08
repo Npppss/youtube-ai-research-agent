@@ -182,14 +182,8 @@ Handles:
 
 # 📌 Author
 
-Your Name
+Novandra
 AI Engineer | ML | Backend Systems
-
----
-
-# 📜 License
-
-MIT License
 
 ---
 
