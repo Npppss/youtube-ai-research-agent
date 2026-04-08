@@ -170,22 +170,6 @@ Handles:
 
 ---
 
-# 💼 ATS / Recruiter Optimization
-
-This project demonstrates:
-
-* ✅ Machine Learning Engineering
-* ✅ NLP & Speech Processing (ASR)
-* ✅ Multi-Agent AI Systems
-* ✅ Async & Scalable Backend Design
-* ✅ End-to-End AI Pipeline
-
-### Keywords:
-
-`AI Engineer`, `Machine Learning`, `NLP`, `Whisper`, `CrewAI`, `Async Python`, `Multi-Agent`, `YouTube AI`
-
----
-
 # 🔮 Future Improvements
 
 * [ ] FastAPI deployment
